@@ -14,7 +14,7 @@
        {
     	   WebDriver driver = new FirefoxDriver();
            
-         
+         system.out.print("trying to push");
       
      
      driver.get("https://facebook.com");  
